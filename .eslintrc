@@ -1,0 +1,7 @@
+{
+  "parser": "babel-eslint",
+	"globals": { "$": true,
+				  "window": true
+				},
+	"strict": 0
+}
